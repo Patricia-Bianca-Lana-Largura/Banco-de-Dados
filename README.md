@@ -20,6 +20,8 @@ Software especializado e desenvolvido especialmente para *gerenciar* essas cole�
 - São mais tradicionais e consolidadas no mercado.
 - Exemplos: Oracle, DB2, SQL, Server, Access, PostgreSQL, MySQL, Derby e H2. 
 
+- Os primeiros SGDBs Relacionais apareceram na década de 1980 como uma novidade boa no meio da computação, tanto que esses acabaram sucedendo os bancos de dados hierárquicos em rede predominantes por mainframes.
+
 ## SGBD's não relacionais:
 - Estes bancos utilizam diversos modelos de dados incluindo documentos, gráficos, chave-valor e colunares. São amplamente reconhecidos pela facilidade em seu desenvolvimento, desempenho escalável, alta disponibilidade e resiliência.
 - Conhecidos como NoSQL.
@@ -37,6 +39,9 @@ Software especializado e desenvolvido especialmente para *gerenciar* essas cole�
 - Uma definição clássica do conceito de transações envolve o acrônimo ACID, oriundo das propriedades de Atomicidade, Consistência, Isolamento e Durabilidade.
 
 
+# O Modelo Relacional:
+- Tem uma sólida base formal, construído sob a teoria dos conjuntos, seu nome é devido à relação matemática da teoria dos conjuntos e não aos relacionamentos. Trata-se de um modelo com estruturas de tabelas e alguns conceitos.
+- Permite a representação da estrutura lógica do projeto com uma visão genérica. Sua estrutura é feita de uma forma clara e simples, possibilitando representar os dados do mundo real como objetos denominados entidades ou conjuntos de entidades.
 
 
 #### Referências: 
