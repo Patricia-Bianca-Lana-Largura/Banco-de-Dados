@@ -38,11 +38,17 @@ Software especializado e desenvolvido especialmente para *gerenciar* essas cole�
 # Transações (fundamental em muitas áreas da computação):
 - Uma definição clássica do conceito de transações envolve o acrônimo ACID, oriundo das propriedades de Atomicidade, Consistência, Isolamento e Durabilidade.
 
+<img src="https://github.com/Patricia-Bianca-Lana-Largura/Banco-de-Dados/blob/master/Images/img2.png" width="950">
+
 
 # O Modelo Relacional:
 - Tem uma sólida base formal, construído sob a teoria dos conjuntos, seu nome é devido à relação matemática da teoria dos conjuntos e não aos relacionamentos. Trata-se de um modelo com estruturas de tabelas e alguns conceitos.
 - Permite a representação da estrutura lógica do projeto com uma visão genérica. Sua estrutura é feita de uma forma clara e simples, possibilitando representar os dados do mundo real como objetos denominados entidades ou conjuntos de entidades.
 
+<img src="https://github.com/Patricia-Bianca-Lana-Largura/Banco-de-Dados/blob/master/Images/img1.png" width="950">
+
 
 #### Referências: 
 >Principais SGBD'S relacionais: [Treina web](https://www.treinaweb.com.br/blog/os-principais-sgbds-relacionais/)
+
+>Conteúdo sobre Transações: [Curso de Banco de Dados MySQL - Curso em Vídeo](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
