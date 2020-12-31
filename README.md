@@ -54,6 +54,14 @@ Os primeiros SGDBs Relacionais apareceram na década de 1980 como uma novidade b
 
 <img src="https://github.com/Patricia-Bianca-Lana-Largura/Banco-de-Dados/blob/master/Images/img1.png" width="950">
 
+## Entidade:
+- Entidade ou tabela é uma representação gráfica de um conjunto.
+### Há 2 tipos de Entidades:
+ - Concretas: são objetos do mundo real. Exemplo: carro, computador e funcionário.
+ - Abstratas: são intangíveis. Exemplo: aluguel, compra e venda.
+ 
+ ## Atributo:
+-  utilizadas para descrição de entidade, características contidas nas Entidades. Exemplo: uma entidade Cliente pode ser relacionado os atributos, Nome, RG e CPF.
 
 #### Referências: 
 >Principais SGBD'S relacionais: [Treina web](https://www.treinaweb.com.br/blog/os-principais-sgbds-relacionais/)
