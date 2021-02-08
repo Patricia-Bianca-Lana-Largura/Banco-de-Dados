@@ -61,7 +61,28 @@ Os primeiros SGDBs Relacionais apareceram na década de 1980 como uma novidade b
  - Abstratas: são intangíveis. Exemplo: aluguel, compra e venda.
  
  ## Atributo:
--  utilizadas para descrição de entidade, características contidas nas Entidades. Exemplo: uma entidade Cliente pode ser relacionado os atributos, Nome, RG e CPF.
+-  Utilizadas para descrição de entidade, características contidas nas Entidades. Exemplo: uma entidade Cliente pode ser relacionado os atributos, Nome, RG e CPF.
+
+### Tipos de Atributos:
+ - Atributo Simples
+ - Atributo Multivalorado
+ - Atributo Composto
+ - Atributo-Chave
+ 
+## Chave Estrangeira (FOREIGN KEY):
+ - Trata-se de um campo que aponta para a chave primária de outra tabela.
+
+## Relacionamentos:
+- No Modelo Relacional as entidades não podem ficar isoladas, mas sim relacionadas entre si para futuramente ter acesso de forma integrada das informações.
+
+### Tipos de Relacionamentos:
+ - Autorrelacionamento
+ - Relacionamento Binário
+ - Relacionamento Ternário
+
+ 
+
+ 
 
 #### Referências: 
 >Principais SGBD'S relacionais: [Treina web](https://www.treinaweb.com.br/blog/os-principais-sgbds-relacionais/)
