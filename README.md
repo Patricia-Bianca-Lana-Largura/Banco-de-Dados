@@ -20,7 +20,14 @@ Software especializado e desenvolvido especialmente para *gerenciar* essas cole�
 - São mais tradicionais e consolidadas no mercado.
 - Exemplos: Oracle, DB2, SQL, Server, Access, PostgreSQL, MySQL, Derby e H2. 
 
-- Os primeiros SGDBs Relacionais apareceram na década de 1980 como uma novidade boa no meio da computação, tanto que esses acabaram sucedendo os bancos de dados hierárquicos em rede predominantes por mainframes.
+#### Oracle:
+- Surgiu no final dos anos 70, com Larry Elliso em conjunto com os co-fundadores da Oracle Corporation, Bob Miner e Ed Oates;
+- O banco de dados da Oracle é potente, seguro e tem eficiência para coordenar um grande volume de dados;
+- Podendo ser instalado em diversos sistemas operacionais;
+- Necessário um hardware potente que possa permitir usufruir de todo desempenho dele.
+
+
+Os primeiros SGDBs Relacionais apareceram na década de 1980 como uma novidade boa no meio da computação, tanto que esses acabaram sucedendo os bancos de dados hierárquicos em rede predominantes por mainframes.
 
 ## SGBD's não relacionais:
 - Estes bancos utilizam diversos modelos de dados incluindo documentos, gráficos, chave-valor e colunares. São amplamente reconhecidos pela facilidade em seu desenvolvimento, desempenho escalável, alta disponibilidade e resiliência.
@@ -47,6 +54,35 @@ Software especializado e desenvolvido especialmente para *gerenciar* essas cole�
 
 <img src="https://github.com/Patricia-Bianca-Lana-Largura/Banco-de-Dados/blob/master/Images/img1.png" width="950">
 
+## Entidade:
+- Entidade ou tabela é uma representação gráfica de um conjunto.
+### Há 2 tipos de Entidades:
+ - Concretas: são objetos do mundo real. Exemplo: carro, computador e funcionário.
+ - Abstratas: são intangíveis. Exemplo: aluguel, compra e venda.
+ 
+ ## Atributo:
+-  Utilizadas para descrição de entidade, características contidas nas Entidades. Exemplo: uma entidade Cliente pode ser relacionado os atributos, Nome, RG e CPF.
+
+### Tipos de Atributos:
+ - Atributo Simples
+ - Atributo Multivalorado
+ - Atributo Composto
+ - Atributo-Chave
+ 
+## Chave Estrangeira (FOREIGN KEY):
+ - Trata-se de um campo que aponta para a chave primária de outra tabela.
+
+## Relacionamentos:
+- No Modelo Relacional as entidades não podem ficar isoladas, mas sim relacionadas entre si para futuramente ter acesso de forma integrada das informações.
+
+### Tipos de Relacionamentos:
+ - Autorrelacionamento
+ - Relacionamento Binário
+ - Relacionamento Ternário
+
+ 
+
+ 
 
 #### Referências: 
 >Principais SGBD'S relacionais: [Treina web](https://www.treinaweb.com.br/blog/os-principais-sgbds-relacionais/)
