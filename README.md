@@ -80,9 +80,25 @@ Os primeiros SGDBs Relacionais apareceram na década de 1980 como uma novidade b
  - Relacionamento Binário
  - Relacionamento Ternário
 
+ ## Cardinalidade:
+ - Permite expressar o número de ocorrências com que uma entidade pode tomar parte em um relacionamento, também expressar as possibilidades e restrições de associações entre uma entidade e outra.
  
+## Cardinalidade Máxima:
+ - Limite máximo de ocorrências em uma entidade para outra.
+ 
+## Tipos:
 
+### Um para Um (1:1)
+
+Ocorre quando a entidade se relaciona com no máximo uma ocorrência.
  
+### Um para Muitos (1:N)
+
+Ocorre quando uma entidade se relaciona com muitas ocorrências, mas a ocorrência da outra entidade só se relaciona com uma ocorrência da primeira.
+
+### Muitos para Muitos (N:N) ou (N:M).
+
+Ocorre quando a entidade se relaciona com muitas ocorrências de ambos os lados.
 
 #### Referências: 
 >Principais SGBD'S relacionais: [Treina web](https://www.treinaweb.com.br/blog/os-principais-sgbds-relacionais/)
